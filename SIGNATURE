@@ -15,10 +15,10 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 5bc74d4fe10642a2b95b78e9a4315c4f722a8aa3 MANIFEST
-SHA1 7a41e14f6ae1c6cfaa6104fecce76a9d6e57cbe1 META.yml
+SHA1 299b737ffb9c556c86f5b835449e320610b2a35b META.yml
 SHA1 afba77533cb087b76a9bebe49f43d759072bf485 Makefile.PL
-SHA1 0b015014c51185845aad5ef7b96bc97eaf0e3a72 README
-SHA1 57fc0c7ad291fdadec872f67c1f61dcdae76f2ee html/Callbacks/RTx-RemoteLinks/Elements/EditLinks/ExtraLinkInstructions
+SHA1 618e26090c8848b629d51964300f78f3dc0404c9 README
+SHA1 a26490aa2cc8bdd63d1c0bece6c1614e81a91bd6 html/Callbacks/RTx-RemoteLinks/Elements/EditLinks/ExtraLinkInstructions
 SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
 SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
 SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
@@ -30,11 +30,11 @@ SHA1 dc94326a076aca41452c1d65bf52a255feeb9ef7 inc/Module/Install/ReadmeFromPod.p
 SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
 SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
 SHA1 b43b283d5753c1cdcf7e3197a49827087cb1e571 lib/RT/URI/remote_rt.pm
-SHA1 ed86d785964d5819f52ec8f3b18bb6207dd16f5a lib/RTx/RemoteLinks.pm
+SHA1 c6a68d82710d9bf91167f35c63194deb078aa7ef lib/RTx/RemoteLinks.pm
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iD8DBQFRZyzBHdv9ZfNcOAcRAsjpAKCRXsQcqgvQHZ3dU1nRGQ6hZp0wuACeKppo
-Umi6AMmcjblqAo/iYTRH6m4=
-=rRg6
+iD8DBQFRZzGKHdv9ZfNcOAcRAq9OAKCqsaLYsbpMrZnXv5LQV2pZ7KiCewCfeLiM
+FXJAgCvtcYTgesbqnNGCtbM=
+=mrDc
 -----END PGP SIGNATURE-----

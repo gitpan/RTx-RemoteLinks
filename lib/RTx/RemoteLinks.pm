@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package RTx::RemoteLinks;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use List::Util 'first';
 
@@ -25,6 +25,11 @@ complications, but this could be added in the future.
         Foo => 'example.com',               # assumes http:// and RT at the top-level path
         Bar => 'https://example.net/rt',    # specifies https and a subpath for RT
     );
+
+Prefixes are case insensitive, so both "Foo" and "foo" and "fOo" will work.
+
+Once you create links in the system using a prefix, you should leave it
+configured.
 
 Make sure to add this plugin to C<@Plugins> as well, as described in
 L</INSTALLATION>.
